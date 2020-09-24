@@ -44,7 +44,7 @@ const (
 	ReqDefaultTimeout int32 = 3000
 
 	//DialTimeout connection dial timeout
-	DialTimeout = 50
+	DialTimeout = 80
 	//ObjQueueMax obj queue max number
 	ObjQueueMax int32 = 10000
 
